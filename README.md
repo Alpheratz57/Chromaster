@@ -18,7 +18,7 @@ Designed specifically to **re-encode Topaz Video AI output** with surgical preci
 
 # 1. Media — Full transparency on your streams
 
-![media_tab](upload://1_media.jpg)
+<img width="2135" height="1447" alt="1_media" src="https://github.com/user-attachments/assets/ece13a6e-2f48-46dd-b76e-763b332159a7" />
 
 - Full JSON tree view of source & destination streams — every field, every flag, nothing hidden
 - Source codec, profile, resolution, pixel format, color space, transfer, primaries, frame rate, field order — all visible at a glance
@@ -30,7 +30,7 @@ Designed specifically to **re-encode Topaz Video AI output** with surgical preci
 
 # 2. Crop — Detect, trim, visualize
 
-![crop_tab](upload://2_crop.jpg)
+<img width="2135" height="1447" alt="2_crop" src="https://github.com/user-attachments/assets/f551fdb5-2406-417e-aa82-8133a0573e2c" />
 
 Not just a rectangle overlay. A **perspective trapezoid** showing each edge being trimmed, with directional controls and x2–x32 zoom.
 
@@ -53,7 +53,7 @@ Not just a rectangle overlay. A **perspective trapezoid** showing each edge bein
 
 # 3. Smart Algorithm Selection — Tell it what you want, not what to use
 
-![resize_tab](upload://3_resize.jpg)
+<img width="2135" height="1447" alt="3_resize" src="https://github.com/user-attachments/assets/110ee213-32f5-48b0-ada5-65eff011906f" />
 
 This one doesn't exist anywhere else.
 
@@ -99,7 +99,7 @@ Result: **automatic best-match recommendation**. No guesswork.
 
 # 4. HDR Chromaticity — CIE 1931, live, interactive
 
-![chroma_tab](upload://4_chroma.jpg)
+<img width="2135" height="1447" alt="4_chroma" src="https://github.com/user-attachments/assets/6e270d9d-82d6-4808-849f-48c5ad789e38" />
 
 ### CIE 1931 Gamut Diagram
 
@@ -126,7 +126,7 @@ Every HDR parameter exposed and editable:
 
 # 5. Luminance & Scene Intelligence
 
-![luma_tab](upload://5_luma.jpg)
+<img width="2135" height="1447" alt="5_luma" src="https://github.com/user-attachments/assets/3fe4f28f-7258-4119-9d3f-39ecfada0de6" />
 
 ### HDR Waveform
 
@@ -152,7 +152,7 @@ Every HDR parameter exposed and editable:
 
 # 6. Full SVT-AV1 Encoder Control
 
-![encoder_tab](upload://6_encoder.jpg)
+<img width="2135" height="1447" alt="6_encoder" src="https://github.com/user-attachments/assets/852c76e5-2e7e-4441-8912-18f19fbb3267" />
 
 Every SVT-AV1 parameter, organized into logical groups with human-readable annotations:
 
@@ -170,7 +170,7 @@ Every slider: current value + description. "Temporal filter strength: 3 — Stro
 
 # 7. Metadata — Total traceability
 
-![metadata_tab](upload://7_metadata.jpg)
+<img width="2135" height="1447" alt="7_metadata" src="https://github.com/user-attachments/assets/7f878246-855d-4598-81a9-9c657ca5d1ff" />
 
 This is where Chromaster becomes a forensic tool.
 
@@ -192,7 +192,7 @@ This is where Chromaster becomes a forensic tool.
 
 # 8. Settings — CPU topology & application control
 
-![settings_tab](upload://8_settings.jpg)
+<img width="2135" height="1447" alt="8_settings" src="https://github.com/user-attachments/assets/10f0fc5a-2fb6-41f7-97db-a2c727fbaee8" />
 
 ### CPU Affinity
 
