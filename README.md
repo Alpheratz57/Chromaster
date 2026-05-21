@@ -18,7 +18,7 @@ Designed specifically to **re-encode Topaz Video AI output** with surgical preci
 
 # 1. Media — Full transparency on your streams
 
-<img width="2135" height="1447" alt="1_media" src="https://github.com/user-attachments/assets/ece13a6e-2f48-46dd-b76e-763b332159a7" />
+<img width="2135" height="1375" alt="image" src="https://github.com/user-attachments/assets/25fdaaa4-bea1-4fe7-aeaf-120412365499" />
 
 - Full JSON tree view of source & destination streams — every field, every flag, nothing hidden
 - Source codec, profile, resolution, pixel format, color space, transfer, primaries, frame rate, field order — all visible at a glance
