@@ -1,4 +1,4 @@
-# Chromaster — Bare-metal SVT-AV1 encoder built for Topaz Video AI users
+# Chromaster — Bare-metal multi encoder built for Topaz Video AI users and more
 
 Tired of losing HDR metadata. Tired of guessing scaling algorithms. Tired of bloated GUIs hiding what matters.
 
