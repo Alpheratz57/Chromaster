@@ -152,7 +152,8 @@ Every HDR parameter exposed and editable:
 
 # 6. Full SVT-AV1 Encoder Control
 
-<img width="2135" height="1447" alt="6_encoder" src="https://github.com/user-attachments/assets/852c76e5-2e7e-4441-8912-18f19fbb3267" />
+<img width="2188" height="1375" alt="image" src="https://github.com/user-attachments/assets/65a9e882-1d2e-4e89-8453-71230e03a49b" />
+
 
 Every SVT-AV1 parameter, organized into logical groups with human-readable annotations:
 
