@@ -152,7 +152,7 @@ Every HDR parameter exposed and editable:
 
 # 6. Full SVT-AV1 (CPU AV1), NVEncC (GPU Nvidia AV1), AVMEnc (CPU AV2), VVenc (CPU H.266) and ProRes Encoder Control
 
-<img width="2189" height="1376" alt="image" src="https://github.com/user-attachments/assets/13a65e12-61a3-475f-906f-12f7f7fc8f44" />
+<img width="2189" height="1376" alt="image" src="https://github.com/user-attachments/assets/db6ec897-5268-4035-86f5-9742de7d13c9" />
 
 Every SVT-AV1 parameter, organized into logical groups with human-readable annotations:
 
